@@ -141,6 +141,4 @@ LIMIT 1;
 
 💼 West Region has the highest overall sales and profit.
 
-🖼️ Screenshots
-
 
